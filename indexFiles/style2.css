@@ -1,0 +1,101 @@
+
+body{background:#fffffff; margin:0;padding:0;}
+.container{margin:0 auto;position:relative;width:860px;}
+.clear{clear:both;display:inline-block;}
+.clear:after{clear:both;content:".";display:block;height:0;line-height:0;visibility:hidden;}
+* html .clear{height:1%;}
+a:active,a:focus{outline:0;}
+#header #global{background:#900 url("../indexFiles/globalbg.jpg");}
+#header #local, #header #local ul{background:#231F20 }
+#feature,#misc{background:#FFFFFF;}
+#info{background:#787570 url("../indexFiles/infobg.jpg");background-repeat:no-repeat;clear:both;display:block;padding:0 50px;}
+#footer{background:#231F20;clear:left;color:#fff;height:50px;padding:0 0px;text-align:center;}
+#footer .container{ background:#231F20;height:50px;}
+body,tr,td,input,select,textarea{font-family:"Lucida Grande","Lucida Sans Unicode",Tahoma, Helvetica, Verdana, sans-serif;font-size:14px;line-height:1.5;voice-family:inherit;}
+
+
+#news h2,#news h2 a{color:#f90;text-decoration:none;}
+#tools h2{background:#69c url("../indexFiles/cog.png");background-position:0 center;background-repeat:no-repeat;color:#fff;margin:0 30px;padding:0 0 0 20px;}
+#global{height:100px;overflow:visible;}
+#global .container{background:inherit;height:90px;}
+#global h1{color:#fff;font-size:18px;height:30px;left:120px;margin:0;position:absolute;top:35px;}
+#logo{background:url("../indexFiles/.png");display:block;float:left;height:100px;width:70px;}#globalnav{float:right;height:50px;position:absolute;right:0;top:66px;width:800px;}
+#globalnav ul{float:right;height:50px;list-style:none;margin:0;padding:0;}
+#globalnav li{float:left;margin:0 0 0 5px;}
+#globalnav a{color:#fff;font-weight:700;padding-bottom:5px;padding-left:20px;text-decoration:none;}
+#globalnav a span{padding-bottom:5px;padding-right:20px;padding-top:5px;}
+#globalnav a,#globalnav a span{display:block;float:none;}
+#globalnav a:hover{background:#800 url("../indexFiles/tabhoverbg.png") left top no-repeat;color:#fff;padding-bottom:0;padding-left:20px;}
+#globalnav a:hover span{background:url("../indexFiles/tabhoverbg.png") right top no-repeat;padding-bottom:9px;padding-right:20px;}
+
+
+#title{
+height:34px;
+line-height:1.25;
+margin-left:0px;
+text-align:center;padding-left:0px;
+padding-top:20px;
+color: #569ABD;
+font-size:14px;
+}
+
+#title b{
+
+color: #231F20;
+font-size:16px
+}
+
+
+
+
+#local{height:50px;}
+#local .container{background:url("../indexFiles/.png") left bottom no-repeat;height:50px; padding:0px; }
+#local ul{float:right;height:50px; width:600px; list-style:none;margin:0; padding-right:120px}
+#local li{display:block;float:left;width:100px;}
+#local li a{color:#fff;display:block;height:34px;line-height:1.2;margin-left:0px;padding:15px 0;text-align:center;text-decoration:none;width:80px;}
+#local li a:hover{background:#c60 url("../indexFiles/localhover.jpg"); height:20px;}
+
+
+
+
+
+
+
+
+#
+h1{color:#69c;font-size:36px;margin:15px 50px;}
+#content h2,#content p,#content ul{margin:0 50px 20px;}
+#content h2,#content h3,#content h4{color:#333;font-family:Georgia, "Times New Roman", Times, serif;font-size:18px;letter-spacing:normal;margin:10px 50px;text-transform:none;}
+#content h3,#content h4{color:#333;font-size:16px;}
+#content h5,#content h6{color:#333;font-size:12px;margin:10px 50px;text-transform:uppercase;}
+
+#news a,#news a,#content a{color:#369;}
+#global form label a,#footer a{color:#fff;text-decoration:none;}
+#content .vcard { background:#f3f2ee !important; border: 2px solid #e8e5de !important; padding: 5px !important; 
+-moz-border-radius: 8px; border-radius: 8px; margin: 5px 0 !important; }
+#content span.vcard { padding: 2px 1px 2px 70px !important; margin: 0 2px 0 !important; }
+#content div#more p { color:#666; margin:0; }
+#content a[href^="http://"] {
+    background: url(../indexFiles/external.png) center right no-repeat;
+    padding-right: 13px;
+}
+#content a[href*="uoguelph.ca"]  {
+    background: none;
+    padding-right: 0;
+}
+a[rel *="video"] { 
+padding: 5px 20px 5px 0;
+background: transparent url(http://www.uoguelph.ca../indexFiles/film.png) no-repeat center right;
+}
+a[rel *="image"] { 
+padding: 5px 20px 5px 0;
+background: transparent url(http://www.uoit.ca../indexFiles/images.png) no-repeat center right;
+}
+
+
+#body{ position:relative; width:840px; margin:0 auto; padding:0px; padding-bottom:0px; min-height:400px;}
+#body ul{list-style:circle;list-style-position:outside;padding-left:20px;}
+#body #banner2{width:840px;height:240px;background:url("../indexFiles/cmer_banner.jpg") no-repeat right top #F7F7F7; color:#171717;}
+#body img.logo{border:none; margin:30px 0 0 0;}
+#body #disclaimer{font-family:Arial, Helvetica, sans-serif;font-size:12px;letter-spacing:-1px;}
+

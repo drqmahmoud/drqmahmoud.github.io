@@ -1,0 +1,10 @@
+manue:28475d
+menu hover: 3c6a8c
+menu active:ef8017
+ 
+
+Slideshow right bg:afc7d8
+	righ form elements: 3c6a8c
+
+
+most text title:28475d
